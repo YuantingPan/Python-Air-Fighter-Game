@@ -1,5 +1,5 @@
 # Python-Air-Fighter-Game
-A simple fighter game written in Pygame in a leisurely afternoon.
+A simple fighter game written in Pygame in a leisurely Sunday afternoon.
 
 You control a fighter with your mouse, shoot bullets, kill enemies, earn scores.
 
